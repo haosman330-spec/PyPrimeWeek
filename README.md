@@ -28,10 +28,6 @@ This course is designed for beginners and aims to provide a solid foundation in 
 - Jupyter Notebook
 - NumPy, Pandas, seaborn, matplotlib (for later units)
 
-You can install the required packages with:
-```bash
-pip install -r requirements.txt
-```
 
 ## How to Use
 - Work through each unit in order.
